@@ -54,5 +54,5 @@ h1, h2{
     color: #ff4400;
     opacity:1;
     cursor: pointer;
-    transform: rotate(360deg);
+    transform: rotate(360deg) scale(1.2);
 }

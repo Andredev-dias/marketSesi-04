@@ -14,7 +14,7 @@
     {
         "id": 3,
         "descricao": "Saco de Batata",
-        "imagem": "../Dados/Images/batata.jpg",
+        "imagem": "../Dados/Images/batata.avif",
         "preco": 40.0
     },
     {
