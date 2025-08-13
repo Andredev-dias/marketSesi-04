@@ -45,6 +45,7 @@ body {
     justify-content: center;
     gap: 4vh;
     padding-top: 20px;
+    padding-bottom: 20px;
     background-color: rgb(29, 29, 29);
     color: #fff;
 }
